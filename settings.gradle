@@ -1,0 +1,3 @@
+include ':project-dependency'
+rootProject.name = 'via-springboot-basic-framework'
+

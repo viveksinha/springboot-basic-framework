@@ -1,0 +1,7 @@
+buildscript {
+    ext {
+        springVersion = '1.5.2.RELEASE'
+        lombokVersion = '1.16.14'
+        springfoxVersion = '2.6.1'
+    }
+}
