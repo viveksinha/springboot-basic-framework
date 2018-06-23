@@ -1,4 +1,4 @@
-group 'via-springboot-basic-framework'
+group 'springboot-basic-framework'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
